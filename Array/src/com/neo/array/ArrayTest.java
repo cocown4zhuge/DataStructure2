@@ -38,5 +38,7 @@ public class ArrayTest {
         System.out.println(array.contains(9527));
         System.out.println(array.contains(100000));
 
+        System.out.println("test");
+
     }
 }
